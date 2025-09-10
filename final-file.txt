@@ -1,21 +1,3 @@
 heelloo
 byeee
 dhevan
-***********************************Devops**********************************************************************************
-https://github.com/virat-0410/website
-
-https://github.com/ravdy/ttrend
-https://github.com/ravdy/ttrend/tree/main/src
-https://github.com/ravdy/
-https://github.com/ravdy/devops-project-workshop
-http://192.168.2.111 :8080
-https://phoenixnap.com/kb/install-jenkins-ubuntu
-https://github.com/puneetgavri/terraform-world/tree/main
-https://learn.microsoft.com/en-us/shows/gurupowershell/azure-accounts-powershell
-https://www.youtube.com/watch?v=6f1Qckg2Zx0
-https://github.com/jatinbhalla/
-https://github.com/puneetgavri/Docker-world/tree/main
-https://github.com/puneetgavri/cicd-world/blob/main/installation.txt
-https://github.com/puneetgavri
-https://github.com/stacksimplify/hashicorp-certified-terraform-associate
-https://portal.cloud.hashicorp.com/sign-in
